@@ -1,6 +1,6 @@
 # Nile + Raspberry Pi 5 Wired Network Lab
 
-> **WORK IN PROGRESS (14 Nov 2026)** · Personal learning prototype; **not official Nile software or a validated Nile product test**.
+> **WORK IN PROGRESS (14 Nov 2026)** ·
 
 Build a portable Raspberry Pi 5 network test client capable of simulating **four independent Linux network endpoints** and, in a later phase, connecting them to **four distinct physical Nile switch ports** to investigate onboarding, 802.1X, client visibility and Trust Engine policy enforcement.
 
