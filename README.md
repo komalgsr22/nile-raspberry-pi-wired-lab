@@ -81,6 +81,4 @@ sudo bash scripts/cleanup-local-lab.sh
 
 We considered **one physical cable** carrying four MAC addresses, but a conventional switch normally does not forward traffic back out the ingress port; thus one cable is not a reliable demonstration of Nile client-to-client **allow and deny** policies. Four physical switch ports provide a more faithful topology. **Nothing in this repository claims Nile supports a particular authentication flow or policy by default; this must be validated on an authorized test switch.**
 
-## Credits and boundaries
 
-This repository documents an independent experiment. The original [Austin Hawthorne Nile test-client installer](https://github.com/austinhawthorne/setup-nile-test-client) is referenced but its third-party code is **not copied or executed** here. No production credentials, sensitive network captures, or private customer information should be committed.
